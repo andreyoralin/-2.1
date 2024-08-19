@@ -1,5 +1,51 @@
-{"name":"Duck #00",
-  "description":"What about a round of golf?",
-  "image":"https://gateway.pinata.cloud/ipfs/QmTPSH7bkExWcrdXXwQvhN72zDXK9pZzH3AGbCw13f6Lwx/1.jpg",
-  "attributes":[{"trait_type":"Awesomeness","value":"Super cool"}]
+{
+   "name": "#100",
+   "description": "Will robots take over humanity?",
+   "image": "https://gateway.pinata.cloud/ipfs/QmfEuE7y9SZmwFURcQcpAh3oGkYS9NqpNMdZ7HuRH1qbyv/100.gif",
+   "attributes": [
+      {
+         "trait_type": "Arm",
+         "value": "Compressor"
+      },
+      {
+         "trait_type": "Background Color",
+         "value": "Pear"
+      },
+      {
+         "trait_type": "BackpackK",
+         "value": "Electron Battery"
+      },
+      {
+         "trait_type": "BodyY",
+         "value": "Zapata"
+      },
+      {
+         "trait_type": "Chassis Color",
+         "value": "Hot Pink"
+      },
+      {
+         "trait_type": "Ear",
+         "value": "Antenna"
+      },
+      {
+         "trait_type": "Eyes",
+         "value": "Annoyed"
+      },
+      {
+         "trait_type": "Head Shape",
+         "value": "Round Bottom"
+      },
+      {
+         "trait_type": "Mouth",
+         "value": "Grill"
+      },
+      {
+         "trait_type": "Robot Type",
+         "value": "Roboto"
+      },
+      {
+         "trait_type": "Top",
+         "value": "Ginger"
+      }
+   ]
 }
